@@ -1,2 +1,2 @@
-# python
-Projetos em python usado no Maria Felipa LAB
+# Python
+Projetos em python usados no Maria Felipa LAB
